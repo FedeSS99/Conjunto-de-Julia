@@ -44,3 +44,7 @@ El entorno utilizado para mostrar el conjunto de Julia es OpenCV por lo que se a
 Además de que con la rueda del mouse es posible alejarse/acercarse a una región del conjunto.
 
 ## Ejemplos
+![alt text](https://github.com/FedeSS99/Conjunto-de-Julia/blob/master/Ejemplos/EjemploConjuntoJulia1.png?raw=true)
+![alt text](https://github.com/FedeSS99/Conjunto-de-Julia/blob/master/Ejemplos/EjemploConjuntoJulia2.png?raw=true)
+![alt text](https://github.com/FedeSS99/Conjunto-de-Julia/blob/master/Ejemplos/EjemploConjuntoJulia3.png?raw=true)
+![alt text](https://github.com/FedeSS99/Conjunto-de-Julia/blob/master/Ejemplos/EjemploConjuntoJulia4.png?raw=true)
