@@ -19,7 +19,7 @@ La operación se aplicara de forma iterada siguiendo así el comportamiento de c
 ## Evaluación y visualización del conjunto
 Puesto que no es posible calcular infinitas iteraciones de la función generadora se ve la necesidad de fijar una cantidad de iteraciones máxima que delimite la cantidad de 
 operaciones que se realicen por pixel en el conjunto por visualizar; siendo que el arreglo que se utilizará para dar con el conjunto consistira en valores localizados entre 0 y 255.
-Inicialmente se encuentran todos los elementos con valor de 0 pero al obtener la cantidad de iteraciones de un número complejo fijo tendremos que tener un arreglo de 3 canales de dimension (Ny,Nx) que conformaran los canales de color RGB. Para cada canal se utiliza funciones de Bernstein modificadas tal que
+Inicialmente se encuentran todos los elementos con valor de 0 pero al obtener la cantidad de iteraciones de un número complejo fijo tendremos que tener un arreglo de 3 canales de dimension (Ny,Nx) que conformaran los canales de color RGB. Para cada canal se utiliza funciones senoidales tales que
 ```diff
 t = iteraciones
 ```
